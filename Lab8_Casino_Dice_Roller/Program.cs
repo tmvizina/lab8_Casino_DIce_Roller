@@ -16,30 +16,48 @@ namespace Lab8_Casino_Dice_Roller
 
                 if (RollGoAhead == "yes")
                 {
-                    Console.WriteLine("How many sides of dice would you like?");
-                    int NumofSides = int.Parse(Console.ReadLine());
 
-                    int roll1 = RandomDice(NumofSides);
-                    int roll2 = RandomDice(NumofSides);
-                    int total = roll1 + roll2;
+                    try
+                    {
 
-                    if (NumofSides == 6)
-                    {
-                        string specialmsg = SpecialCaseCheck(roll1, roll2, total);
-                        Console.WriteLine(specialmsg);
-                        Console.WriteLine("");
-                        Console.WriteLine("");
-                        Console.WriteLine($"First Roll is {roll1}");
-                        Console.WriteLine($"Second Roll is {roll2}");
-                        Console.WriteLine($"Total is {total}");
+                        Console.WriteLine("How many sides of dice would you like?");
+
+
+                        
+                        int NumofSides = int.Parse(Console.ReadLine());
+
+                        if (NumofSides <= 1)
+                        {
+                            Console.WriteLine("Invalid Please enter a valid number of sides");
+                        }
+                        else
+                        {
+                            int roll1 = RandomDice(NumofSides);
+                            int roll2 = RandomDice(NumofSides);
+                            int total = roll1 + roll2;
+
+                            if (NumofSides == 6)
+                            {
+                                string specialmsg = SpecialCaseCheck(roll1, roll2, total);
+                                Console.WriteLine(specialmsg);
+                                Console.WriteLine("");
+                                Console.WriteLine($"First Roll is {roll1}");
+                                Console.WriteLine($"Second Roll is {roll2}");
+                                Console.WriteLine($"Total is {total}");
+                            }
+                            else
+                            {
+                                Console.WriteLine($"First Roll is {roll1}");
+                                Console.WriteLine($"Second Roll is {roll2}");
+                                Console.WriteLine($"Total is {total}");
+                            }
+                        }
                     }
-                    else
+                    catch(FormatException)
                     {
-                        Console.WriteLine($"First Roll is {roll1}");
-                        Console.WriteLine($"Second Roll is {roll2}");
-                        Console.WriteLine($"Total is {total}");
+                        Console.WriteLine("Invalid type Please enter a integer only");
+                        continue;
                     }
-                    
                 }
                 else
                 {
