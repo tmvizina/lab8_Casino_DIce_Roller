@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\bin\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.exe
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\bin\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.deps.json
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\bin\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.runtimeconfig.json
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\bin\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\bin\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.dll
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\bin\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.pdb
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.csprojAssemblyReference.cache
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.dll
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.pdb
+C:\Users\tmviz\source\repos\Lab8_Casino_Dice_Roller\Lab8_Casino_Dice_Roller\obj\Debug\netcoreapp3.1\Lab8_Casino_Dice_Roller.genruntimeconfig.cache
